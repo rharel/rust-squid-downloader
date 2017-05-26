@@ -1,0 +1,9 @@
+# IntelliJ
+.idea/
+
+# Debug downloads
+Downloads/
+
+# Rust
+target/
+**/*.rs.bk
