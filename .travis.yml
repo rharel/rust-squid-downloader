@@ -1,0 +1,12 @@
+language: rust
+script:
+  - cargo build --verbose
+  - cargo test --verbose
+  - cargo doc --lib --no-deps
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: target/doc/
+  on:
+    branch: master
