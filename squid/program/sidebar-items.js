@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Options","Represents the program's execution options."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ParseError","Enumerates possible parsing errors."]],"fn":[["parse_arguments","Parses command line arguments."]],"struct":[["Arguments","Represents parsed command line arguments."]]});
