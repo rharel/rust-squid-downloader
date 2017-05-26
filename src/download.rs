@@ -928,6 +928,7 @@ mod tests
         else { panic!("Expected an output-related error, got '{:?}' instead.", result) }
     }
     #[test]
+    #[ignore]
     fn new()
     {
         let options = Options
