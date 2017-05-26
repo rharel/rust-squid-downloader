@@ -7,6 +7,6 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  local_dir: target/doc/
+  local_dir: target/doc/squid/
   on:
     branch: master
