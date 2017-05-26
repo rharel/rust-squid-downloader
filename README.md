@@ -6,7 +6,7 @@ Squid Downloader is a command-line-operated downloader written in Rust. It can a
 
 This project was my gateway to Rust. I had just finished reading the Rust Book (2nd edition) and wanted to test my understanding of the language by implementing a small-ish sized exercise --- and this is it.
  
- [Documentation is over here.](https://rharel.github.io/rust-squid-downloader/)
+ [Documentation is over here.](https://rharel.github.io/rust-squid-downloader/squid/index.html)
  
 ## License
 
