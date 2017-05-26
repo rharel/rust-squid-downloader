@@ -1,0 +1,14 @@
+[package]
+name = "squid-downloader"
+version = "0.1.0"
+authors = ["Raoul Harel <raoul.harel@gmail.com>"]
+
+[lib]
+name = "squid"
+
+[dependencies]
+argparse = "0.*"
+hyper = "0.*"
+hyper-native-tls = "0.*"
+threadpool = "1.*"
+time = "0.*"
